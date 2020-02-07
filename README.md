@@ -1,1 +1,3 @@
 # Team-Profile-Generator
+
+This is a CLI application that allows a company owner/boss/whatever to put in information about multiple employees and have them be displayed all on one page. The hardest part about this project was getting the data to be displayed on an HTML file, that is what took most of my time and I definitely  git help from some of my peers. Getting the test to pass was alot easier than expected.
